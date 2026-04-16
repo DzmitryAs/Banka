@@ -7,3 +7,5 @@
 Работа с удаленным репом
 Добавил строчку user2
 Line from user1
+Line from user2
+
